@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0;
+	box-sizing: 0;
+	margin 0;
+}
+
+body {
+	background-image: url(https://malmo.se/images/18.6fb145de1521ab79c0a1dc68/1491299130352/Malm%C3%B6-flygfoto800x600.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	margin: 0;
+	background-size: cover;
+}
